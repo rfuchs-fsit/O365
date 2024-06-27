@@ -1,5 +1,5 @@
 <Configuration ID="205d428d-d5a3-4d97-a43d-e33f15b9614e">
-  <Add OfficeClientEdition="64" Channel="Current" SourcePath="https://github.com/rfuchs-fsit/O365/blob/main/Install-Files/" AllowCdnFallback="FALSE">
+  <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365BusinessRetail">
       <Language ID="en-us" />
       <ExcludeApp ID="Groove" />
