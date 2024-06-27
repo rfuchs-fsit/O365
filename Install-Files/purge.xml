@@ -1,4 +1,4 @@
 <Configuration ID="205d428d-d5a3-4d97-a43d-e33f15b9614e">
-  <Remove All="TRUE" />
+  <Remove All="TRUE" DisplayLevel="None" />
   <RemoveMSI />
 </Configuration>
